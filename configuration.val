@@ -1,0 +1,14 @@
+[file]
+
+corpus_path= /vol1/plagiarism_detection_project/akshaya/pan-dataset/
+corpus_details = /vol1/plagiarism_detection_project/akshaya/Corpus_details.csv
+corpus_copy_path = /vol1/plagiarism_detection_project/akshaya/pan-dataset/
+
+[models]
+
+path = /vol1/plagiarism_detection_project/akshaya/models/
+
+[mallet]
+
+home = /vol1/backup/hailu/hailu/anaconda3/lib/python3.7/site-packages/mallet-2.0.8
+path = /vol1/backup/hailu/hailu/anaconda3/lib/python3.7/site-packages/mallet-2.0.8/bin/mallet
