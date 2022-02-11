@@ -1,0 +1,14 @@
+[file]
+
+corpus_path= D:/OVGU/Sem 3/Plagiarism detection Project/pan-plagiarism-corpus-2011/
+corpus_details =  D:/OVGU/Sem 3/Plagiarism detection Project/Corpus_file.csv
+corpus_copy_path = D:/OVGU/Sem 3/Plagiarism detection Project/pan-dataset/
+
+[models]
+
+path = D:/OVGU/Sem 3/Plagiarism detection Project/models/
+
+[mallet]
+
+home = C:/mallet/mallet-2.0.8
+path = C:/mallet/mallet-2.0.8/bin/mallet.bat
